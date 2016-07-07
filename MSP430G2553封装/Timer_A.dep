@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>990459028</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\inc\12864.h</file>
+      <file>$PROJ_DIR$\inc\ADC.h</file>
+      <file>$PROJ_DIR$\inc\Mealy.h</file>
+      <file>$PROJ_DIR$\inc\DS18B20.h</file>
+      <file>$PROJ_DIR$\inc\delay.h</file>
+      <file>$PROJ_DIR$\inc\Init.h</file>
+      <file>$PROJ_DIR$\inc\ExterVect_Dect_H.h</file>
+      <file>$PROJ_DIR$\inc\msp430_conf.h</file>
+      <file>$PROJ_DIR$\inc\TA_PWM.h</file>
+      <file>$PROJ_DIR$\inc\UART.h</file>
+      <file>$PROJ_DIR$\scr\12864.c</file>
+      <file>$PROJ_DIR$\scr\ADC.c</file>
+      <file>$PROJ_DIR$\scr\DS18B20.c</file>
+      <file>$PROJ_DIR$\scr\Mealy.c</file>
+      <file>$PROJ_DIR$\scr\Init.c</file>
+      <file>$PROJ_DIR$\scr\ExterVect_Dect.c</file>
+      <file>$PROJ_DIR$\scr\TA_PWM.c</file>
+      <file>$PROJ_DIR$\scr\UART.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADC.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADC.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\TA_PWM_SetPermill.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\12864.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\430_It_Vector.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\TA_PWM_Init.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\TA_PWM_SetPeriod.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\msp430g2553.h</file>
+      <file>$PROJ_DIR$\..\..\430G2553&#x7A0B;&#x5e8F;\MSP430G2553&#x5C01;&#x88C5;\inc\TA_PWM.h</file>
+      <file>$PROJ_DIR$\..\..\430G2553&#x7A0B;&#x5e8F;\MSP430G2553&#x5C01;&#x88C5;\inc\ExterVect_Dect_H.h</file>
+      <file>$PROJ_DIR$\..\..\430G2553&#x7A0B;&#x5e8F;\MSP430G2553&#x5C01;&#x88C5;\inc\Mealy.h</file>
+      <file>$PROJ_DIR$\..\..\430G2553&#x7A0B;&#x5e8F;\MSP430G2553&#x5C01;&#x88C5;\inc\DS18B20.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\DS18B20.r43</file>
+      <file>$PROJ_DIR$\..\..\430G2553&#x7A0B;&#x5e8F;\MSP430G2553&#x5C01;&#x88C5;\inc\12864.h</file>
+      <file>$PROJ_DIR$\scr\TA_PWM_SetPeriod.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\DS18B20.pbi</file>
+      <file>$PROJ_DIR$\..\..\430G2553&#x7A0B;&#x5e8F;\MSP430G2553&#x5C01;&#x88C5;\inc\msp430_conf.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ExterVect_Dect.pbi</file>
+      <file>$PROJ_DIR$\..\..\430G2553&#x7A0B;&#x5e8F;\MSP430G2553&#x5C01;&#x88C5;\inc\Init.h</file>
+      <file>$PROJ_DIR$\..\..\430G2553&#x7A0B;&#x5e8F;\MSP430G2553&#x5C01;&#x88C5;\inc\UART.h</file>
+      <file>$PROJ_DIR$\scr\TA_PWM_Init.c</file>
+      <file>$PROJ_DIR$\..\..\430G2553&#x7A0B;&#x5e8F;\MSP430G2553&#x5C01;&#x88C5;\inc\delay.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\430_It_Vector.r43</file>
+      <file>$TOOLKIT_DIR$\config\lnk430G2553.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$PROJ_DIR$\scr\430_It_Vector.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\TA_PWM_SetPermill.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\TA_PWM_SetPeriod.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\ExterVect_Dect.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\Init.pbi</file>
+      <file>$PROJ_DIR$\scr\TA_PWM_SetPermill.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\TA_PWM.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\Mealy.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\TA_PWM_Init.r43</file>
+      <file>$PROJ_DIR$\scr\GPIO_Init.c</file>
+      <file>$PROJ_DIR$\Debug\Exe\Timer_A.d43</file>
+      <file>$PROJ_DIR$\Debug\Obj\Init.r43</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\GPIO_Init.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$PROJ_DIR$\..\..\430G2553&#x7A0B;&#x5e8F;\MSP430G2553&#x5C01;&#x88C5;\inc\ADC.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Mealy.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\Timer_A.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\12864.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\GPIO_Init.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\TA_PWM.r43</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\scr\12864.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\scr\ADC.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\scr\DS18B20.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\scr\Mealy.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 74</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\scr\Init.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\scr\ExterVect_Dect.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\scr\TA_PWM.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\scr\UART.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 63</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70 46 38 48 43 40 33 25 19 28 24 30 29 32 31 34 39 51 49 73 41</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\scr\TA_PWM_SetPeriod.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\scr\TA_PWM_Init.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\scr\430_It_Vector.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\scr\TA_PWM_SetPermill.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\scr\GPIO_Init.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 77</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 27 70</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 27 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\Timer_A.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 53 76 20 42 59 69 74 78 63 55 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\Timer_A.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 23 21 45 47 60 64 62 54 65</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

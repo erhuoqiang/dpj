@@ -1,0 +1,5 @@
+"STARTUP.obj",
+"mian.obj",
+"rc522.obj" 
+TO "xxx" 
+RAMSIZE(256) 

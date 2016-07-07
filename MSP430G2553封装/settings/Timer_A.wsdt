@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Timer_A/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>144</Column0><Column1>0</Column1><Column2>29</Column2><Column3>0</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7055-11445</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Timer_A</ExpandedNode><ExpandedNode>Timer_A/Output</ExpandedNode><ExpandedNode>Timer_A/inc</ExpandedNode><ExpandedNode>Timer_A/src</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18096-11647</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-3513-32076</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\scr\GPIO_Init.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>410</SelStart><SelEnd>410</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\scr\TA_PWM.c</Filename><XPos>0</XPos><YPos>3</YPos><SelStart>8431</SelStart><SelEnd>8431</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\inc\UART.h</Filename><XPos>0</XPos><YPos>8</YPos><SelStart>14</SelStart><SelEnd>14</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\inc\ADC.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>66</SelStart><SelEnd>66</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\inc\ExterVect_Dect_H.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>95</SelStart><SelEnd>95</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\scr\ExterVect_Dect.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>140</SelStart><SelEnd>140</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\inc\TA_PWM.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\inc\msp430_conf.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>221</SelStart><SelEnd>221</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\inc\12864.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>115</SelStart><SelEnd>115</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\inc\Mealy.h</Filename><XPos>0</XPos><YPos>10</YPos><SelStart>174</SelStart><SelEnd>174</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\scr\Mealy.c</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>1281</SelStart><SelEnd>1286</SelEnd></Tab><ActiveTab>10</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\scr\12864.c</Filename><XPos>0</XPos><YPos>11</YPos><SelStart>408</SelStart><SelEnd>408</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\inc\Init.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>162</SelStart><SelEnd>162</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\scr\Init.c</Filename><XPos>0</XPos><YPos>60</YPos><SelStart>1233</SelStart><SelEnd>1233</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\inc\delay.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>120</SelStart><SelEnd>120</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\scr\ADC.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>476</SelStart><SelEnd>476</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>75</YPos><SelStart>2152</SelStart><SelEnd>2152</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\inc\DS18B20.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>226</SelStart><SelEnd>226</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\scr\DS18B20.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2738</SelStart><SelEnd>2738</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\scr\UART.c</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>868</SelStart><SelEnd>868</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02c0e6a8><key>iaridepm.enu1</key></Toolbar-02c0e6a8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>494</Bottom><Right>210</Right><x>-2</x><y>-2</y><xscreen>101</xscreen><yscreen>149</yscreen><sizeHorzCX>73939</sizeHorzCX><sizeHorzCY>217201</sizeHorzCY><sizeVertCX>155198</sizeVertCX><sizeVertCY>723032</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>147</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>149</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>217201</sizeHorzCY><sizeVertCX>73939</sizeVertCX><sizeVertCY>217201</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
