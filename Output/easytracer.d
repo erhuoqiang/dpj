@@ -1,0 +1,15 @@
+..\..\output\easytracer.o: ..\..\User\EasyTrace\EasyTracer.c
+..\..\output\easytracer.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\easytracer.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\easytracer.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\easytracer.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\easytracer.o: ..\..\User\stm32f10x_conf.h
+..\..\output\easytracer.o: ..\..\Libraries\FWlib\inc\stm32f10x_exti.h
+..\..\output\easytracer.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\easytracer.o: ..\..\Libraries\FWlib\inc\stm32f10x_fsmc.h
+..\..\output\easytracer.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\easytracer.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\easytracer.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\easytracer.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\easytracer.o: ..\..\User\lcd\bsp_ili9341_lcd.h
+..\..\output\easytracer.o: ..\..\User\EasyTrace\EasyTracer.h
